@@ -1,0 +1,5 @@
+*.ipynb
+.DS_Store
+**/__pycache__/**
+.idea/**
+package-lock.json
